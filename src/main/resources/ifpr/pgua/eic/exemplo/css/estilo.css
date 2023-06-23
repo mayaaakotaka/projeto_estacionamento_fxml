@@ -1,6 +1,8 @@
-.root{
-    -fx-background-color:rgb(123, 170, 71);
-    -fx-background-image:url("../images/radiohead.jpg")
+#root{
+    -fx-background-color:#000000;
+    -fx-background-image:url("../images/radiohead.jpg");
+    -fx-background-position:center;
+    -fx-background-repeat:no-repeat;
 }
 
 .button{
